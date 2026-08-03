@@ -134,17 +134,17 @@ Appliance_energy_forecasting/
 ├── .gitignore
 │
 ├── data/
-│   ├── raw/           <- energydata_complete.csv (downloaded on first run)
-│   ├── interim/
-│   └── processed/     <- appliance_hourly.csv (auto-generated)
+│    <- energydata_complete.csv (downloaded on first run)
+│  
+│    <- appliance_hourly.csv (auto-generated)
 │
 ├── notebooks/
 │   └── appliance_energy_forecasting.ipynb   <- main notebook (Parts 1-9)
 │
 ├── outputs/
-│   ├── figures/       <- all generated plots
-│   ├── forecasts/     <- all_forecasts.csv
-│   └── metrics/       <- model_comparison.csv
+│     <- all generated plots
+│     <- all_forecasts.csv
+│     <- model_comparison.csv
 │
 └── reports/
     └── appliance_energy_report.pdf
