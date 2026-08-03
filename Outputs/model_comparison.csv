@@ -1,0 +1,9 @@
+model,MAE,RMSE,MASE,Bias
+feature_model,33.82,55.37,0.633,4.83
+sarimax,37.19,63.81,0.696,0.08
+seasonal_naive_weekly,42.63,79.29,0.798,-10.82
+mean,50.32,74.91,0.942,-3.11
+seasonal_naive_daily,86.96,129.23,1.628,64.01
+foundation_model,86.96,129.23,1.628,64.01
+naive,250.64,258.82,4.692,247.76
+drift,266.37,274.61,4.986,264.5
