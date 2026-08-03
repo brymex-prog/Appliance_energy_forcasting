@@ -146,8 +146,7 @@ Appliance_energy_forecasting/
 │     <- all_forecasts.csv
 │     <- model_comparison.csv
 │
-└── reports/
-    └── appliance_energy_report.pdf
+
 ```
 
 ## Installation
